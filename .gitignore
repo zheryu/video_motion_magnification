@@ -1,0 +1,6 @@
+*.avi
+*.gif
+*.jpg
+.ipynb_checkpoints
+__pycache__
+Release*
